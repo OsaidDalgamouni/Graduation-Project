@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model DonationBank.Models.VM.ShoppingCartVM
+@{
+}
+
+
+<html>
+    <head>
+        <link rel="stylesheet" href="~/css/ShoppingCart.css" />
+    </head>
+<body>
+    
+    <form method="post" asp-controller="ShoppingCart" asp-action="Summary">
+    <div class="shopping-cart" style="margin-top:60px;">
+
+        <div class="column-labels">
+            <label class="product-image">Image</label>
+            <label class="product-details">Product</label>
+            <label class="product-price">size</label>
+            <label class="product-quantity">Category</label>
+            <label class="product-removal">Remove</label>
+           
+        </div>
+        @foreach(var item in Model.ListCarts)
+        {
+            
+       
+        <div class="product">
+            <div class="product-image">
+                <img src="@item.Product.ImagePath">
+            </div>
+            <div class="product-details">
+                <div class="product-title">description</div>
+                <p class="product-description">@item.Product.Description</p>
+            </div>
+            <div class="product-price">@item.Product.Size</div>
+            <div class="product-quantity">
+                <p>@item.Product.Category</p>
+            </div>
+            <div class="product-removal">
+                
+                            <a asp-controller="ShoppingCart" asp-action="Delete" asp-route-id="@item.Id" class="remove-product" style="color:white;text-decoration: none;">remove</a>
+        
+            </div>
+             <div class="product-removal">
+                        <button class="remove-product  " style="margin-left:9px;background-color: #4C7397;">
+                        <a asp-controller="Home" asp-action="Showproduct"  style="color:white;text-decoration: none;">ContiueShopping</a>
+                </button>
+            </div>
+        </div>
+       
+        }
+
+
+
+            <button type="submit" onclick="Confirm()" style="background-color: #5B758E;" class="checkout">Checkout</button>
+
+          
+
+    </div>
+
+
+    </form>
+    </body>
+    <script>
+        function Confirm(){
+        Swal.fire(
+            'Good job!',
+            'We will call you soon!',
+            'success'
+        )
+        }
+    </script>
+</html>

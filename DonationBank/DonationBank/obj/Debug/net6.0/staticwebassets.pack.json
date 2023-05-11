@@ -1,0 +1,505 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DonationBank.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DonationBank.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\MicrosoftTeams-image (1).png",
+      "PackagePath": "staticwebassets\\Image\\MicrosoftTeams-image (1).png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\MicrosoftTeams-image.png",
+      "PackagePath": "staticwebassets\\Image\\MicrosoftTeams-image.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\My project.png",
+      "PackagePath": "staticwebassets\\Image\\My project.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\0888afd4-7590-4f9a-a973-4317944f7e91.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\0888afd4-7590-4f9a-a973-4317944f7e91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\13dc216c-ebff-4f2e-9485-224472ed6a96.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\13dc216c-ebff-4f2e-9485-224472ed6a96.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\15462f54-7f41-45da-8662-b319097d1dfd.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\15462f54-7f41-45da-8662-b319097d1dfd.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\15c6781c-aafe-4e61-bd8d-69e24bf08e95.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\15c6781c-aafe-4e61-bd8d-69e24bf08e95.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\167319f9-7a47-4d97-97c6-2f8b95b15b28.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\167319f9-7a47-4d97-97c6-2f8b95b15b28.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\2493c47c-84b7-4ed5-b042-9c888b3d4830.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\2493c47c-84b7-4ed5-b042-9c888b3d4830.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\300bcfc7-b652-4cca-88df-4b931efca827.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\300bcfc7-b652-4cca-88df-4b931efca827.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\37cddf7a-99b3-4aa5-a316-f09723023011.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\37cddf7a-99b3-4aa5-a316-f09723023011.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\37f9ddad-fd66-48dd-b161-7890ca4bbdb8.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\37f9ddad-fd66-48dd-b161-7890ca4bbdb8.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\43f9538d-84ac-492c-be4a-bd36acd0752b.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\43f9538d-84ac-492c-be4a-bd36acd0752b.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\441c9bda-3769-4974-84e5-cdbbc29ecab3.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\441c9bda-3769-4974-84e5-cdbbc29ecab3.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\47360055-fb70-4253-a1ba-2802edfa0ae5.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\47360055-fb70-4253-a1ba-2802edfa0ae5.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\4fb286a2-8da2-46f4-a814-281465d23952.jfif",
+      "PackagePath": "staticwebassets\\Image\\Products\\4fb286a2-8da2-46f4-a814-281465d23952.jfif"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\53a0ce9d-d55f-4a12-a645-e776a24c345f.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\53a0ce9d-d55f-4a12-a645-e776a24c345f.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\57dee61b-ba75-4367-aaca-932c5d7aba54.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\57dee61b-ba75-4367-aaca-932c5d7aba54.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\586ee539-a0ad-45c4-95fe-d45c025d6765.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\586ee539-a0ad-45c4-95fe-d45c025d6765.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\600116a9-5e65-49c7-b01b-acd629303068.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\600116a9-5e65-49c7-b01b-acd629303068.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\7299d7be-7fa0-4137-80f4-4d796da6ccb7.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\7299d7be-7fa0-4137-80f4-4d796da6ccb7.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\8f714a5f-8c27-402f-9285-63fb49afcd46.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\8f714a5f-8c27-402f-9285-63fb49afcd46.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\914466ac-6c79-457c-b48a-94dc6304adc0.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\914466ac-6c79-457c-b48a-94dc6304adc0.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\949333d6-7b67-4a9f-938e-0a6b46ce6e18.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\949333d6-7b67-4a9f-938e-0a6b46ce6e18.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\97a5381f-b9cb-4568-acec-94317da251a7.jfif",
+      "PackagePath": "staticwebassets\\Image\\Products\\97a5381f-b9cb-4568-acec-94317da251a7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\a56f2e8e-e603-4a41-a128-9a7274440e77.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\a56f2e8e-e603-4a41-a128-9a7274440e77.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\bd83ffda-ef3f-4da7-97c7-f3744d378bd1.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\bd83ffda-ef3f-4da7-97c7-f3744d378bd1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\c888671a-0bc7-4652-8acf-ff185fdd3faf.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\c888671a-0bc7-4652-8acf-ff185fdd3faf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\cb338a5d-c615-45f3-8ffb-ded5e0aa842a.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\cb338a5d-c615-45f3-8ffb-ded5e0aa842a.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\cce2b451-4d6a-4938-ba99-08d4b9169b7b.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\cce2b451-4d6a-4938-ba99-08d4b9169b7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\cf9b1cec-a37e-4b6e-8982-c3a8dcdc5ac8.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\cf9b1cec-a37e-4b6e-8982-c3a8dcdc5ac8.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\d063fe53-5c32-42f8-a9a4-3388aa172ee7.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\d063fe53-5c32-42f8-a9a4-3388aa172ee7.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\d56ffcf4-604b-4c64-9747-9e6e55dbb4ac.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\d56ffcf4-604b-4c64-9747-9e6e55dbb4ac.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\d59b7df8-975f-42ba-898d-cd511a11b184.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\d59b7df8-975f-42ba-898d-cd511a11b184.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\ddddfb07-a271-4a23-ad57-5b7267b4860a.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\ddddfb07-a271-4a23-ad57-5b7267b4860a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\e17e4dae-026e-40cf-bf85-9fa050c4a03d.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\e17e4dae-026e-40cf-bf85-9fa050c4a03d.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\e303a204-6148-497b-8a9f-3126fc1d0426.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\e303a204-6148-497b-8a9f-3126fc1d0426.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\e36e45be-123e-448c-aabe-315daa3249e7.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\e36e45be-123e-448c-aabe-315daa3249e7.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\ed30092f-1e3f-4d7f-9d8b-b0d4ae966229.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\ed30092f-1e3f-4d7f-9d8b-b0d4ae966229.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\ef26d447-8f97-45a5-b3b2-cf32c90ac82a.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\ef26d447-8f97-45a5-b3b2-cf32c90ac82a.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\f69a7d42-754a-42e4-b045-519995f37471.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\f69a7d42-754a-42e4-b045-519995f37471.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Products\\f8f14881-437c-474c-9969-7f75151e62da.jfif",
+      "PackagePath": "staticwebassets\\Image\\Products\\f8f14881-437c-474c-9969-7f75151e62da.jfif"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\Team.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Team.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\al-kHEER_bank__1_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Image\\al-kHEER_bank__1_-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\donate-img-1024x512.jpg",
+      "PackagePath": "staticwebassets\\Image\\donate-img-1024x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\gmail_icon_vecteezy_transparent_generated-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Image\\gmail_icon_vecteezy_transparent_generated-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\icons8-box-64.png",
+      "PackagePath": "staticwebassets\\Image\\icons8-box-64.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\left-arrow.png",
+      "PackagePath": "staticwebassets\\Image\\left-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\logo.png",
+      "PackagePath": "staticwebassets\\Image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\picc1.png",
+      "PackagePath": "staticwebassets\\Image\\picc1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\Image\\picc2.png",
+      "PackagePath": "staticwebassets\\Image\\picc2.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\Details.css",
+      "PackagePath": "staticwebassets\\css\\Details.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\Donate.css",
+      "PackagePath": "staticwebassets\\css\\Donate.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\HomePage.css",
+      "PackagePath": "staticwebassets\\css\\HomePage.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\ShoppingCart.css",
+      "PackagePath": "staticwebassets\\css\\ShoppingCart.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\js\\AcceptOrder.js",
+      "PackagePath": "staticwebassets\\js\\AcceptOrder.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\js\\ApiCheckClothes.js",
+      "PackagePath": "staticwebassets\\js\\ApiCheckClothes.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\js\\ShoppingCart.js",
+      "PackagePath": "staticwebassets\\js\\ShoppingCart.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Graduation Project\\DonationBank\\DonationBank\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DonationBank.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DonationBank.props",
+      "PackagePath": "build\\DonationBank.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DonationBank.props",
+      "PackagePath": "buildMultiTargeting\\DonationBank.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DonationBank.props",
+      "PackagePath": "buildTransitive\\DonationBank.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

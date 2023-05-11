@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #table1 td {
+            background-color: white;
+            color: black !important;
+        }
+    </style>
+</head>
+<body>
+    @if (TempData["success"] != null)
+    {
+        <h2>@TempData["success"]</h2>
+    }
+    <div class"p-3" style="margin-top:50px;">
+        <div class="d-flex justify-content-between pt-4">
+            <div class="p-2">
+                <h2 class="text-primary">Product</h2>
+            </div>
+        
+
+        </div>
+    <br />
+
+    <table id="table1" class="table table-bordered table-striped" style="width:100%; ">
+        <thead>
+            <tr class="text-bg-primary">
+                <th>Image</th>
+                <th>Size</th>
+                <th>Category</th>
+                <th>Description</th>
+                <th>PhoneNumber</th>
+                <th>Accept state</th>
+               
+               
+
+
+            </tr>
+
+
+
+        </thead>
+
+    </table>
+    </div>
+    @section Scripts{
+        <script src="~/js/ApiCheckClothes.js"></script>
+}
+
+</body>
+</html>

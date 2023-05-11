@@ -1,0 +1,124 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Product
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Donation</title>
+
+    <!-- the donation form-
+    <link rel="stylesheet" href="~/css/Donate.css">-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-image: linear-gradient(#4C7397, #E0E5EB);
+            font-family: cursive;
+        }
+
+        .form-control {
+            background-color: #E2E6EE;
+        }
+
+        .btn {
+            background-color: #288FB4;
+            color: white;
+        }
+
+        .allform {
+            height: 530px;
+            width: 546px;
+            left: 770px;
+            top: 176px;
+            border-radius: 20px;
+            padding: 16px 30px 30px 30px;
+            margin-top: 90px;
+            margin-bottom: 208px;
+        }
+
+        .logo {
+            text-align: center;
+        }
+
+        .formimg {
+            height: 60px;
+            width: 50px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 16%;
+        }
+
+        #phoneimg {
+            height: 550px;
+            width: 570px;
+            margin-left: 100px;
+        }
+
+        optgroup {
+            font-size: 16px;
+        }
+    </style>
+
+</head>
+<body>
+    <!-- the donation form-->
+    <div class="row d-flex">
+        <div class=" col col-md-6 col-sm-3 col-lg-6 mb-3 d-inline border rounded-3 bg-white allform ">
+           <form  asp-controller="Product" asp-action="Donate" enctype="multipart/form-data" method="post">
+            <!--the form img "logo"-->
+         
+                <div class="logo">
+                    <img src="/Image/icons8-box-64.png" class="formimg">
+                    <p>Donation info</p>
+                </div>
+                <input asp-for="ApplicationUserId" hidden />
+                <!--upload photo -->
+                <label asp-for="ImagePath" class="form-label">Upload photo <br> </label><br>
+                <input type="file" class="form-control   "required name="file" placeholder="">
+                <br>
+                <!--img details -->
+                <label asp-for="Description" class="form-label">Image details </label><br>
+                <input type="text" class="form-control " asp-for="Description" required placeholder="Please write the details of the piece of clothing">
+                <span asp-validation-for="Description" class="text-danger"></span>
+                <br>
+                <!--img classification-->
+                <label asp-for="Category" class="form-label">Image classification </label><br>
+                <select asp-for="Category" class="form-select form-select-s mb-3 " required>
+
+                    <option selected value="Woman">Women</option>
+                    <option value="Men">Men</option>
+                    <option value="Kids">Kids</option>
+
+                </select>
+                <!--size-->
+                <label asp-for="Size" class="form-label">
+                    Size
+                </label><br>
+                <select asp-for="Size" class="form-select form-select-s mb-3 " aria-label=".form-select-lg example">
+
+                    <option selected value="small">Small</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Larg">Larg</option>
+
+                </select>
+                <!--button-->
+                <div class="d-grid gap-2 col-6 mx-auto">
+                    <button class="btn" type="submit" >DONE</button>
+                </div>
+           
+            </form>
+   
+            </div>
+                   <!--the main img-->
+        <div class=" col col-md-6  col-lg-6 mb-2 d-lg-inline d-md-none d-sm-none">
+                   <img src="/Image/My project.png" id="phoneimg">
+                  </div>
+        </div>
+       
+</body>
+</html>

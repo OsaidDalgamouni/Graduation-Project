@@ -1,0 +1,354 @@
+﻿body {
+    background-color: #E0E5EB;
+
+}
+
+/* */
+.container-donate {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.text-over-img {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.p {
+    font-size: 20px;
+}
+
+span.p {
+    font-size: 29px;
+}
+
+.div-over-img {
+    position: absolute;
+}
+
+.ourTeam {
+    position: relative;
+    display: inline-block;
+}
+
+.captionOurTeam {
+    position: absolute;
+    top: 81%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.styleOurTeam {
+    background-color: black;
+    width: 425px;
+    height: 280px;
+}
+
+.bankAlkheer {
+    color: #C86551;
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.btn-donate {
+    width: 120px;
+    background-color: #E0E5EB;
+    color: #48566E;
+}
+
+    .btn-donate:hover {
+        border-radius: 10px;
+        background-color: rgb(156, 196, 240);
+    }
+
+.yourProject {
+    background-color: #4C7397;
+    height: 250px;
+    width: 320px;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.distinguishes {
+    background-color: white;
+    color: black;
+    height: 210px;
+    width: 270px;
+    font-size: 15px;
+    padding: 15px;
+}
+
+hr.text1 {
+    border-top: 3px double #48586E;
+    color: #48586E;
+    overflow: visible;
+    text-align: center;
+    height: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    opacity: 1;
+}
+
+    hr.text1:after {
+        background: #E0E5EB;
+        content: 'OUR STORY';
+        padding: 0 4px;
+        position: relative;
+        top: -15px;
+    }
+
+hr.text2 {
+    border-top: 3px double #48586E;
+    color: #48586E;
+    overflow: visible;
+    text-align: center;
+    height: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    opacity: 1;
+}
+
+    hr.text2:after {
+        background: #E0E5EB;
+        content: 'What distinguishes your project from similar projects?';
+        padding: 0 4px;
+        position: relative;
+        top: -15px;
+    }
+/* to make the p responsive */
+@media (max-width: 1200px) {
+    .p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 800px) {
+    .p {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .p {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 450px) {
+    .p {
+        font-size: 6px;
+    }
+}
+/* to make the span inside p responsive */
+@media (max-width: 1200px) {
+    span.p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1000px) {
+    span.p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 800px) {
+    span.p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    span.p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 450px) {
+    span.p {
+        font-size: 11px;
+    }
+}
+/* to make the donate button responsive */
+@media (max-width: 1200px) {
+    .btn-donate {
+        width: 110px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .btn-donate {
+        width: 100px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 800px) {
+    .btn-donate {
+        width: 90px;
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 600px) {
+    .btn-donate {
+        width: 80px;
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 450px) {
+    .btn-donate {
+        width: 70px;
+        font-size: 7px;
+    }
+}
+/**/
+@media (max-width: 1400px) {
+    .styleOurTeam, .captionOurTeam {
+        width: 400px;
+        height: 250px;
+        top: 79%;
+        left: 50%;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .styleOurTeam, .captionOurTeam {
+        width: 375px;
+        height: 230px;
+        top: 77%;
+        left: 50%;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .styleOurTeam, .captionOurTeam {
+        width: 350px;
+        height: 210px;
+        top: 74%;
+        left: 50%;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 800px) {
+    .styleOurTeam, .captionOurTeam {
+        width: 325px;
+        height: 180px;
+        top: 71%;
+        left: 50%;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 600px) {
+    .styleOurTeam, .captionOurTeam {
+        width: 300px;
+        height: 150px;
+        top: 68%;
+        left: 50%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 450px) {
+    .styleOurTeam, .captionOurTeam {
+        width: 250px;
+        height: 125px;
+        top: 65%;
+        left: 50%;
+        font-size: 10px;
+    }
+}
+/**/
+@media (max-width: 1400px) {
+    .yourProject, .distinguishes {
+        height: 230px;
+        width: 290px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .yourProject, .distinguishes {
+        width: 280px;
+        height: 220px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .yourProject, .distinguishes {
+        width: 270px;
+        height: 210px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 900px) {
+    .yourProject, .distinguishes {
+        width: 250px;
+        height: 200px;
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 800px) {
+    .yourProject, .distinguishes {
+        width: 240px;
+        height: 190px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 700px) {
+    .yourProject, .distinguishes {
+        width: 230px;
+        height: 180px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .yourProject, .distinguishes {
+        width: 210px;
+        height: 170px;
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 500px) {
+    .yourProject, .distinguishes {
+        width: 200px;
+        height: 160px;
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 450px) {
+    .yourProject, .distinguishes {
+        width: 100px;
+        height: 75px;
+        font-size: 4px;
+    }
+}
+      
